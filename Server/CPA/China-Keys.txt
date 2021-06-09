@@ -1,0 +1,37 @@
+Round 1 : 
+
+Key[00]+OPC = 201       hex = C9
+Key[01]+OPC = 068       hex = 44
+Key[02]+OPC = 129       hex = 81
+Key[03]+OPC = 046       hex = 2E
+Key[04]+OPC = 082       hex = 52
+Key[05]+OPC = 163       hex = A3
+Key[06]+OPC = 033       hex = FE
+Key[07]+OPC = 139       hex = 8B
+Key[08]+OPC = 021       hex = 15
+Key[09]+OPC = 101       hex = 65
+Key[10]+OPC = 211       hex = D3
+Key[11]+OPC = 099       hex = 63
+Key[12]+OPC = 076       hex = 4C
+Key[13]+OPC = 211       hex = D3
+Key[14]+OPC = 141       hex = 8D
+Key[15]+OPC = 079       hex = 4F
+
+Round 2 : 
+
+Key[00] = 146           hex = 92
+Key[01] = 204           hex = CC
+Key[02] = 252           hex = FC
+Key[03] = 145*          hex = 91
+Key[04] = 046           hex = 2E
+Key[05] = 105           hex = 69
+Key[06] = 082           hex = 52
+Key[07] = 207           hex = CF
+Key[08] = 211           hex = D3
+Key[09] = 080           hex = 50
+Key[10] = 081/247       hex = 51
+Key[11] = 133/247       hex = 85
+Key[12] = 011           hex = 0B
+Key[13] = 237           hex = ED
+Key[14] = 197           hex = C5
+Key[15] = 237           hex = ED
